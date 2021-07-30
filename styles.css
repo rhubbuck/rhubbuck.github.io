@@ -14,7 +14,7 @@
     justify-content: space-around;
 }
 .intro-wrapper {
-    background-image: url('images/updatedMountinImg.jpg');
+    background-image: url('Images/updatedMountinImg.jpg');
     opacity: .7;
     background-size: cover;
 }
